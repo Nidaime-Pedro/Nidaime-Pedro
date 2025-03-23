@@ -7,7 +7,7 @@ Atualmente, trabalho na construção da startup **Royal Tech**, focada em inova�
 ### 🚀 Sobre mim
 - 🔹 Desenvolvedor Full Stack | Pentester em formação
 - 🔹 Tecnologias: Python, JavaScript, PHP, Node.js, Flask, MySQL
-- 🔹 Projetos principais: [SIGAAP](https://github.com/seu-usuario/sigaap), [EduTech+](https://github.com/seu-usuario/edutech-plus)
+- 🔹 Projetos principais: [SIGAAP](https://github.com/Nidaime-Pedro/sigaap), [EduTech+](https://github.com/Nidaime-Pedro/edutech)
 - 🔹 Buscando sempre inovação e aprendizado contínuo
 
 ### 📊 Estatísticas do GitHub
