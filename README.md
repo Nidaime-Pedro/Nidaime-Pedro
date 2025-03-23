@@ -11,10 +11,9 @@ Atualmente, trabalho na construção da startup **Royal Tech**, focada em inova�
 - 🔹 Buscando sempre inovação e aprendizado contínuo
 
 ### 📊 Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nidaime-Pedro&show_icons=true&theme=dracula)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dracula)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Nidaime-Pedro&layout=compact&theme=dracula)
 
 ### 📫 Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/seu-linkedin)  
-[![Portfólio](https://img.shields.io/badge/Portfólio-green?logo=github)](https://seu-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/cadimiel-pedro-nzuanga)  
