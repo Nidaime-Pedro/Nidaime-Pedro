@@ -11,6 +11,7 @@ Atualmente, trabalho na construção da startup **Royal Tech**, focada em inova�
 - 🔹 Buscando sempre inovação e aprendizado contínuo
 
 - Stacks
+- 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Shell_Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
