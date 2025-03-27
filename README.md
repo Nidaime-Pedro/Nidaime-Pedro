@@ -45,3 +45,6 @@ Atualmente, trabalho na construção da startup **Royal Tech**, focada em inova�
 
 ### 📫 Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/cadimiel-pedro-nzuanga)  
+
+
+![Profile views](https://komarev.com/ghpvc/?username=Nidaime-Pedro&color=blue)
