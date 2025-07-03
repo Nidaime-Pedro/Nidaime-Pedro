@@ -1,5 +1,4 @@
 # Cadimiel Pedro Nzuanga
-## CEO: 👑 Royal Tech | Tecnologia & Segurança Digital
 
 Bem-vindo ao meu perfil! Sou um desenvolvedor apaixonado por **cybersecurity, desenvolvimento web e Análise de dados**.  
 Atualmente, trabalho na construção da startup **Royal Tech**, focada em inovação e segurança digital.
