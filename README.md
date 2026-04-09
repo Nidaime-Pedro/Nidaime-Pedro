@@ -1,48 +1,54 @@
 # Cadimiel Pedro Nzuanga
+### Endpoint Administrator | Cybersecurity & Red Teaming | Automation Specialist
 
-Bem-vindo ao meu perfil! Sou um desenvolvedor apaixonado por **cybersecurity, desenvolvimento web e Análise de dados**.  
-Atualmente, trabalho como estagiário na empresa LearnIT, focando em TI para entregar soluções inovadoras.
-### 🚀 Sobre mim
-- 🔹 Desenvolvedor Full Stack | Pentester em formação
-- 🔹 Tecnologias: Python, JavaScript, PHP, Node.js, Flask, MySQL
-- 🔹 Projetos principais: [SIGAAP](https://github.com/Nidaime-Pedro/sigaap), [EduTech+](https://github.com/Nidaime-Pedro/edutech)
-- 🔹 Buscando sempre inovação e aprendizado contínuo
+Experienced IT Technician at **LearnitAO/CHK** specializing in infrastructure management, endpoint security, and workflow automation. Currently in **"Monk Mode"**—focusing 100% on technical density, deep work, and high-performance execution.
 
-### 🚀 Tecnologias e Stacks  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)  
-![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Shell_Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![powershell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![windows%20terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+---
+
+### 🚀 Technical Expertise
+- **Infrastructure & Cloud:** Microsoft 365 Administration, Intune (MDM/MAM), Azure AD (Entra ID), Autopilot.
+- **Offensive Security:** Penetration Testing, Active Directory exploitation, Network Security (Active on **HackTheBox**).
+- **Automation & Dev:** Custom workflow automation with **n8n**, PowerShell scripting, and Full-Stack Development (Python/Node.js).
+- **Monitoring:** Advanced infrastructure monitoring with **Zabbix** and **Grafana**.
+
+---
+
+### 🛡️ Core Tech Stack & Tools
+
+![Windows](https://img.shields.io/badge/Windows_Admin-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Kali_Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6C37?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-0668E1?style=for-the-badge&logo=metasploit&logoColor=white)
 
+---
 
+### 📈 Roadmap & Certifications
+- ✅ **AZ-900** (Microsoft Azure Fundamentals)
+- ⏳ **MD-102** (Endpoint Administrator Associate) - *In Progress*
+- ⏳ **SC-900** (Microsoft Security Fundamentals) - *In Progress*
+- ⏳ **eJPTv2** (Junior Penetration Tester) - *Target*
 
-### 🛠️ Ferramentas favoritas  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6C37?style=for-the-badge&logo=burp-suite&logoColor=white)  
-![Metasploit](https://img.shields.io/badge/Metasploit-0668E1?style=for-the-badge)  
-![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge)  
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+---
 
+### 🏗️ Main Projects
+- **[DevBin](https://github.com/Nidaime-Pedro)** - Professional IT services and SaaS solutions.
+- **[SIGAAP](https://github.com/Nidaime-Pedro/sigaap)** - Academic Management System.
+- **[Automation Hub]** - Collection of PowerShell and Python scripts for IT management.
 
-### 📊 Estatísticas do GitHub
+---
+
+### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nidaime-Pedro&show_icons=true&theme=dracula)
-
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Nidaime-Pedro&layout=compact&theme=dracula)
 
-### 📫 Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/cadimiel-pedro-nzuanga)  
+---
 
+### 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cadimiel-pedro-nzuanga)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@exemplo.com)
 
-![Profile views](https://komarev.com/ghpvc/?username=Nidaime-Pedro&color=blue)
+---
+*"Silence is a source of great strength. Focus on internal results."*
