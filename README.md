@@ -27,7 +27,8 @@ Experienced IT Technician at **LearnitAO/CHK** specializing in infrastructure ma
 
 ### 📈 Roadmap & Certifications
 - ✅ **AZ-900** (Microsoft Azure Fundamentals)
-- ⏳ **MD-102** (Endpoint Administrator Associate) - *In Progress*
+- ✅ **MS-900** (Microsoft 365 Fundamentals)
+- ✅ **ZCU** (Zabbix Certified User)
 - ⏳ **SC-900** (Microsoft Security Fundamentals) - *In Progress*
 - ⏳ **eJPTv2** (Junior Penetration Tester) - *Target*
 
