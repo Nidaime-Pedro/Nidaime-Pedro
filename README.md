@@ -35,15 +35,15 @@ Experienced IT Technician at **LearnitAO/CHK** specializing in infrastructure ma
 ---
 
 ### 🏗️ Main Projects
-- **[DevBin](https://github.com/Nidaime-Pedro)** - Professional IT services and SaaS solutions.
-- **[SIGAAP](https://github.com/Nidaime-Pedro/sigaap)** - Academic Management System.
+- **[DevBin](https://github.com/cadimiel-pedro)** - Professional IT services and SaaS solutions.
+- **[SIGAAP](https://github.com/cadimiel-pedro/sigaap)** - Academic Management System.
 - **[Automation Hub]** - Collection of PowerShell and Python scripts for IT management.
 
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nidaime-Pedro&show_icons=true&theme=dracula)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Nidaime-Pedro&layout=compact&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cadimiel-pedro&show_icons=true&theme=dracula)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=cadimiel-pedro&layout=compact&theme=dracula)
 
 ---
 
