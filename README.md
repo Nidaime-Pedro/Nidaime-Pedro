@@ -1,4 +1,4 @@
-# Cadimiel Pedro Nzuanga
+# Cadimiel Pedro
 ### Endpoint Administrator | Cybersecurity & Red Teaming | Automation Specialist
 
 Experienced IT Technician at **LearnitAO/CHK** specializing in infrastructure management, endpoint security, and workflow automation. Currently in **"Monk Mode"**—focusing 100% on technical density, deep work, and high-performance execution.
