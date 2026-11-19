@@ -25,12 +25,12 @@ Técnico de TI na LearnIT Angola. Implemento e opero infraestruturas completas p
 | Network & perimeter      | FortiGate (SSL/IPsec VPN, SD-WAN, QoS, VLANs), UniFi                                |
 | Endpoint & backup        | Kaspersky Next EDR, Trellix, Acronis Cyber Protect                                  |
 | Monitoring               | Zabbix, Grafana, Atera RMM                                                          |
-| Automation & dev         | PowerShell, Python, FastAPI, Node.js, Redis, REST APIs                              |
+| Automation & dev         | PowerShell, Python, Flask, Node.js, Redis, REST APIs                              |
 
 ## Certifications
 
-- **Fortinet NSE 3 — FortiGate 7.6 Operator** (98/100) · Fortinet NSE 1 & NSE 2
-- **Zabbix 7.0 Certified User** (95/100)
+- **Fortinet NSE 3 — FortiGate 7.6 Operator** · Fortinet NSE 1 & NSE 2
+- **Zabbix 7.0 Certified User**
 - **Microsoft** AZ-900 Azure Fundamentals · MS-900 Microsoft 365 Fundamentals
 - **Kaspersky** Next EDR Foundations · Next EDR Optimum · SD-WAN Operator · Container Security
 
